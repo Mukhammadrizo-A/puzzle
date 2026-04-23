@@ -217,3 +217,9 @@ body{
         height: 640px;
     }
 }
+
+@media (max-width: 480px) {
+    body{
+        height: 850px;
+    }
+}
